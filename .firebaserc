@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "tiktok-thacio-f17a2",
+    "firebase init": "tiktok-thacio-f17a2"
+  },
+  "targets": {},
+  "etags": {}
+}

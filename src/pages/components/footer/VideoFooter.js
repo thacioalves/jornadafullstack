@@ -6,7 +6,7 @@ function VideoFooter({name, description, music}) {
   return (
     <div className="videoFooter">
       <div className="videoFooter_text">
-        <h3>@paulo</h3>
+        <h3>@thacioalves</h3>
         <p>{description}</p>
         <div className="videoFooter_music">
           <MusicNoteIcon className="videoFooter_icon" />

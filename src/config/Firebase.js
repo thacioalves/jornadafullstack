@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from 'firebase/firestore/lite';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAG6sugVu6ko3BYngeu5wcxg58H9J-81UQ",
-  authDomain: "tiktok-clone---react.firebaseapp.com",
-  projectId: "tiktok-clone---react",
-  storageBucket: "tiktok-clone---react.appspot.com",
-  messagingSenderId: "583801212235",
-  appId: "1:583801212235:web:1164fdeba55c637ae32cce"
+  apiKey: "AIzaSyDvF3zzknikX7YBOMjCJqJcvV7gfZ4Ad7A",
+  authDomain: "tiktok-thacio-f17a2.firebaseapp.com",
+  projectId: "tiktok-thacio-f17a2",
+  storageBucket: "tiktok-thacio-f17a2.appspot.com",
+  messagingSenderId: "749307172315",
+  appId: "1:749307172315:web:c6d889db09d37065ab83fe"
 };
 
 
